@@ -6,7 +6,7 @@
   "kernel_type": "notebook",
   "is_private": false,
   "enable_gpu": true,
-  "accelerator": "NvidiaTeslaT4*2",
+  "accelerator": "NvidiaTeslaT4x2",
   "docker_image_pinning_type": "original",
   "enable_internet": true,
   "dataset_sources": [
