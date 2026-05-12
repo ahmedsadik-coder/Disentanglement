@@ -1,8 +1,0 @@
-torch
-torchaudio
-huggingface_hub
-resemblyzer
-pymcd
-librosa
-moshi
-sentencepiece
