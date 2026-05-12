@@ -1,5 +1,5 @@
 {
-  "id": "ahmedsadman099876/soundstorm-eval-run-2",
+  "id": "ahmedsadman099876/zero-shot-voice-disentanglement",
   "title": "Zero-Shot Voice Disentanglement",
   "code_file": "run_pipeline.ipynb",
   "language": "python",
@@ -7,6 +7,7 @@
   "is_private": "true",
   "enable_gpu": "true",
   "accelerator": "nvidia-t4-x2",
+  "docker_image_pinning_type": "pinned",
   "enable_internet": "true",
   "dataset_sources": [
     "ahmedsadman099876/model9867",
