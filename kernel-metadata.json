@@ -1,6 +1,6 @@
 {
-  "id": "ahmedsadman099876/Disentanglement",
-  "title": "Disentanglement",
+  "id": "ahmedsadman099876/zero-shot-voice-disentanglement",
+  "title": "zero-shot-voice-disentanglement",
   "code_file": "run_pipeline.ipynb",
   "language": "python",
   "kernel_type": "notebook",
